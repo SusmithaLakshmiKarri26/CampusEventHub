@@ -67,7 +67,7 @@ $charset = 'utf8mb4';
 1. Open XAMPP Control Panel and start **Apache** server. 
 2. Open browser and navigate to:
    ```
-   http://localhost/login.html
+   http://localhost/homepage.html
    ```
 
 ---
